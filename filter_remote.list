@@ -1,12 +1,12 @@
 # 番茄小说去广告
 host-wildcard, *.qc.bsccdn.net, reject
 host-wildcard, *.snssdk.com, reject
-host-wildcard, *.douyinpic.com, reject
-host-wildcard, *.fqnovelpic.com, reject
-host-wildcard, *.byteimg.com, reject
+#host-wildcard, *.douyinpic.com, reject
+#host-wildcard, *.fqnovelpic.com, reject
+#host-wildcard, *.byteimg.com, reject
 host-wildcard, *.ixigua.com, reject
 
 # 番茄小说福利页
-#host-wildcard, *.bytegecko.com, reject
+host-wildcard, *.bytegecko.com, reject
 
 #lf-webcast-gr-sourcecdn.bytegecko.com
