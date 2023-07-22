@@ -4,6 +4,6 @@ host-wildcard, *.snssdk.com, reject
 host-wildcard, *.ixigua.com, reject
 host-wildcard, *.douyinpic.com, reject
 host-wildcard, *.byteimg.com, reject
-#host-wildcard, *.fqnovelpic.com, reject
+host-wildcard, *.fqnovelpic.com, reject
 # 番茄小说福利页
-#host-wildcard, *.bytegecko.com, reject
+host-wildcard, *.bytegecko.com, reject
