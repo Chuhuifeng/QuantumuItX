@@ -1,5 +1,5 @@
 # 番茄小说去广告
-host-wildcard, *.qc.bsccdn.net, reject
+host-wildcard, *.bsccdn.net, reject
 host-wildcard, *.snssdk.com, reject
 host-wildcard, *.ixigua.com, reject
 host-wildcard, *.douyinpic.com, reject
