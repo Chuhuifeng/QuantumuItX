@@ -4,4 +4,6 @@ host-wildcard, *.snssdk.com, reject
 host-wildcard, *.ixigua.com, reject
 host-wildcard, *.douyinpic.com, reject
 host-wildcard, *.byteimg.com, reject
-host-wildcard, *.bytegecko.com, reject
+#host-wildcard, *.bytegecko.com, reject
+#lf-webcast-gr-sourcecdn.bytegecko.com
+host, lf1-cdn-tos.bytegoofy.com, reject
