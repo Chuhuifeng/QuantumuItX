@@ -1,8 +1,9 @@
 # 番茄小说去广告
-host-wildcard, *.bsccdn.net, reject
-#host-wildcard, *.douyinpic.com, reject
-host-wildcard, *.snssdk.com, reject
-host-wildcard, *.ixigua.com, reject
-host-wildcard, *.byteimg.com, reject
-host-wildcard, *.bytegecko.com, reject
-host-wildcard, *.bytegoofy.com, reject
+host-wildcard, *.bsccdn.net
+#host-wildcard, *.douyinpic.com
+host, p3.douyinpic.com
+host-wildcard, *.snssdk.com
+host-wildcard, *.ixigua.com
+host-wildcard, *.byteimg.com
+host-wildcard, *.bytegecko.com
+host-wildcard, *.bytegoofy.com
