@@ -1,13 +1,4 @@
 # 番茄小说去广告
-#host-wildcard, *.bsccdn.net
-#host-wildcard, *.douyinpic.com
-#host, p3.douyinpic.com
-#host-wildcard, *.snssdk.com
-#host-wildcard, *.ixigua.com
-#host-wildcard, *.byteimg.com
-#host-wildcard, *.bytegecko.com
-#host-wildcard, *.bytegoofy.com 
-# 番茄小说
 DOMAIN,p6-ad-sign.byteimg.com,REJECT
 DOMAIN,p9-ad-sign.byteimg.com,REJECT
 # DOMAIN-SUFFIX,byteimg.com,DIRECT
