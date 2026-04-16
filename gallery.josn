@@ -3,7 +3,7 @@
   "description": "包含 MMios 自动签到等脚本",
   "task": [
     {
-      "config": "30 8 * * * https://raw.githubusercontent.com/你的用户名/你的仓库/main/mmios_checkin.js, tag=MMios签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Calendar.png, enabled=true",
+      "config": "30 8 * * * https://github.com/Chuhuifeng/QuantumuItX/blob/main/mimosa_checkin.js, tag=MMios签到, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Calendar.png, enabled=true",
       "description": "MMios 每日自动签到，需先通过重写获取 Cookie"
     }
   ]
